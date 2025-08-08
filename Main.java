@@ -85,7 +85,7 @@ public class Main {
 
         } catch (MyException e) {
             j = 23 / 1;
-            System.out.println("Default value");
+            System.out.println("Default value..");
         }
     }
 }
